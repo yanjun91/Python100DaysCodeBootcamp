@@ -1,4 +1,4 @@
-# Python100DaysCodeBootcamp
+# Python 100 Days Code Bootcamp
 Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp for 2021" Udemy course by Dr. Angela Yu
 
 ## Day 1: 
@@ -37,3 +37,25 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
     - 0 enables sign-aware zero-padding for numeric types
     - .2 sets the precision to 2
     - f displays the number as a fixed-point number
+	
+## Day 3
+### Replit Links:
+- start: https://replit.com/@yanjun91/day-3-start
+- Exercise 1: https://replit.com/@yanjun91/day-3-1-exercise
+- Exercise 2: https://replit.com/@yanjun91/day-3-2-exercise
+- Exercise 3: https://replit.com/@yanjun91/day-3-3-exercise
+- Exercise 4: https://replit.com/@yanjun91/day-3-4-exercise
+- Exercise 5: https://replit.com/@yanjun91/day-3-5-exercise
+- Project: https://replit.com/@yanjun91/treasure-island-start
+### What I learnt:
+- Indentation is important to let Python know which code is under which block
+- Modulo operation will result in the remainder of a division. (eg.: `2%3` is equal to 1)
+- if/elif/else
+- logical operators
+- convert to lowercase characters using `.lower()` (eg.: `"Yan Jun".lower()` becomes `yan jun`)
+- count a character in string using `.count()`. Note that it is case sensitive. (eg.: `"Yan Jun".count("a")` is equal to 1)
+- Using `'''` to wrap around multi-line strings to be printed out
+## Day 4
+### Replit Links:
+
+### What I learnt:
