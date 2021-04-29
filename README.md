@@ -55,7 +55,21 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 - convert to lowercase characters using `.lower()` (eg.: `"Yan Jun".lower()` becomes `yan jun`)
 - count a character in string using `.count()`. Note that it is case sensitive. (eg.: `"Yan Jun".count("a")` is equal to 1)
 - Using `'''` to wrap around multi-line strings to be printed out
+
 ## Day 4
+### Replit Links:
+- start: https://replit.com/@yanjun91/day-4-start
+- Exercise 1: https://replit.com/@yanjun91/day-4-1-exercise
+- Exercise 2: https://replit.com/@yanjun91/day-4-2-exercise
+- Exercise 3: https://replit.com/@yanjun91/day-4-3-exercise
+- Project: https://replit.com/@yanjun91/rock-paper-scissors-start
+### What I learnt:
+- Creating/using modules
+- Generating random integers and float
+- IndexError
+- Using flow chart to visualize the logic flow before start coding for better implementation
+
+## Day 5
 ### Replit Links:
 
 ### What I learnt:
