@@ -71,5 +71,17 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 
 ## Day 5
 ### Replit Links:
+- start: https://replit.com/@yanjun91/day-5-start
+- Exercise 1: https://replit.com/@yanjun91/day-5-1-exercise
+- Exercise 2: https://replit.com/@yanjun91/day-5-2-exercise
+- Exercise 3: https://replit.com/@yanjun91/day-5-3-exercise
+- Project: https://replit.com/@yanjun91/password-generator-start
+### What I learnt:
+- for loops
+- use `range(begin, end, [step])`, where the end number is not included, to loop instead of a list
+- using `random.choice(list)` and `random.shuffle(list)`
+
+## Day 6
+### Replit Links:
 
 ### What I learnt:
