@@ -100,5 +100,15 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
   
 ## Day 7
 ### Replit Links:
-
+- Challenge 1: https://replit.com/@yanjun91/Day-7-Hangman-1-Start
+- Challenge 2: https://replit.com/@yanjun91/Day-7-Hangman-2-Start
+- Challenge 3: https://replit.com/@yanjun91/Day-7-Hangman-3-Start
+- Challenge 4: https://replit.com/@yanjun91/Day-7-Hangman-4-Start
+- Challenge 5: https://replit.com/@yanjun91/Day-7-Hangman-5-Start
+  - Replit module package: https://github.com/replit/replit-py
 ### What I learnt:
+- Reminded to draw a flowchart before starting to code a complex solution 
+- Code the solution one step at a time instead of doing it all in once and debug later which may caused longer time to fix
+- Add a print statement while coding to test 
+- Use `if 'x' in string` to check for character `x` in a `string`
+- creating and importing modules
