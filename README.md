@@ -85,13 +85,13 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 ### Replit/Reeborg Links:
 - start: https://replit.com/@yanjun91/day-6-start
 - Exercise 1: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json
-  - Code: 
+  - Code: https://github.com/yanjun91/Python100DaysCodeBootcamp/tree/main/Day%206/day-6-1-exercise
 - Exercise 2: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%202&url=worlds%2Ftutorial_en%2Fhurdle2.json
-  - Code: 
+  - Code: https://github.com/yanjun91/Python100DaysCodeBootcamp/tree/main/Day%206/day-6-2-exercise
 - Exercise 3: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%203&url=worlds%2Ftutorial_en%2Fhurdle3.json
-  - Code:
+  - Code: https://github.com/yanjun91/Python100DaysCodeBootcamp/tree/main/Day%206/day-6-3-exercise
 - Exercise 4: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%204&url=worlds%2Ftutorial_en%2Fhurdle4.json
-  - Code: 
+  - Code: https://github.com/yanjun91/Python100DaysCodeBootcamp/tree/main/Day%206/day-6-4-exercise
 
 ### What I learnt:
 - Defining and calling functions
