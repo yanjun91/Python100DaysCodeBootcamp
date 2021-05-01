@@ -82,6 +82,23 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 - using `random.choice(list)` and `random.shuffle(list)`
 
 ## Day 6
+### Replit/Reeborg Links:
+- start: https://replit.com/@yanjun91/day-6-start
+- Exercise 1: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json
+  - Code: 
+- Exercise 2: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%202&url=worlds%2Ftutorial_en%2Fhurdle2.json
+  - Code: 
+- Exercise 3: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%203&url=worlds%2Ftutorial_en%2Fhurdle3.json
+  - Code:
+- Exercise 4: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%204&url=worlds%2Ftutorial_en%2Fhurdle4.json
+  - Code: 
+
+### What I learnt:
+- Defining and calling functions
+- Reeborg challenge: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json
+  - Test your logic thinking and problem solving skills accomplishing some movements like turn right using available function turn_left() together with some loops to reach the goal
+  
+## Day 7
 ### Replit Links:
 
 ### What I learnt:
