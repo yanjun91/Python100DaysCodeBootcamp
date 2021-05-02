@@ -113,7 +113,7 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 - Use `if 'x' in string` to check for character `x` in a `string`
 - creating and importing modules
 
-## Day 7
+## Day 8
 ### Replit Links:
 - start: https://replit.com/@yanjun91/day-8-start
 - Exercise 1: https://replit.com/@yanjun91/day-8-1-exercise
@@ -129,3 +129,8 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 - Positional argument is argument that we passed into function in the order
 - Keyword argument is used to specified which parameter that the argument should assigned to
 - Using modulus to loop within the length of list to ensure index wont go out of bound
+
+## Day 9
+### Replit Links:
+
+### What I learnt:
