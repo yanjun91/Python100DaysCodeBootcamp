@@ -8,7 +8,8 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 - Exercise 2: https://replit.com/@yanjun91/day-1-2-exercise
 - Exercise 3: https://replit.com/@yanjun91/day-1-3-exercise
 - Exercise 4: https://replit.com/@yanjun91/day-1-4-exercise
-- Project: https://replit.com/@yanjun91/band-name-generator-start
+- Band Name Generator Project: https://replit.com/@yanjun91/band-name-generator-start
+
 ### What I learnt:
 - `print()` and `input()` functions
 - concatenating strings and using `\n` as a way to break line
@@ -21,7 +22,8 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 - Exercise 1: https://replit.com/@yanjun91/day-2-1-exercise
 - Exercise 2: https://replit.com/@yanjun91/day-2-2-exercise
 - Exercise 3: https://replit.com/@yanjun91/day-2-3-exercise
-- Project: https://replit.com/@yanjun91/tip-calculator-start
+- Tip Calculator Project: https://replit.com/@yanjun91/tip-calculator-start
+
 ### What I learnt:
 - Use `**` as exponential
 - Use `type()` to check data type
@@ -46,7 +48,8 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 - Exercise 3: https://replit.com/@yanjun91/day-3-3-exercise
 - Exercise 4: https://replit.com/@yanjun91/day-3-4-exercise
 - Exercise 5: https://replit.com/@yanjun91/day-3-5-exercise
-- Project: https://replit.com/@yanjun91/treasure-island-start
+- Treasure Island Project: https://replit.com/@yanjun91/treasure-island-start
+
 ### What I learnt:
 - Indentation is important to let Python know which code is under which block
 - Modulo operation will result in the remainder of a division. (eg.: `2%3` is equal to 1)
@@ -62,7 +65,8 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 - Exercise 1: https://replit.com/@yanjun91/day-4-1-exercise
 - Exercise 2: https://replit.com/@yanjun91/day-4-2-exercise
 - Exercise 3: https://replit.com/@yanjun91/day-4-3-exercise
-- Project: https://replit.com/@yanjun91/rock-paper-scissors-start
+- Rock Paper Scissors Game Project: https://replit.com/@yanjun91/rock-paper-scissors-start
+
 ### What I learnt:
 - Creating/using modules
 - Generating random integers and float
@@ -75,7 +79,8 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 - Exercise 1: https://replit.com/@yanjun91/day-5-1-exercise
 - Exercise 2: https://replit.com/@yanjun91/day-5-2-exercise
 - Exercise 3: https://replit.com/@yanjun91/day-5-3-exercise
-- Project: https://replit.com/@yanjun91/password-generator-start
+- Password Generator Project: https://replit.com/@yanjun91/password-generator-start
+
 ### What I learnt:
 - for loops
 - use `range(begin, end, [step])`, where the end number is not included, to loop instead of a list
@@ -106,6 +111,7 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 - Challenge 4: https://replit.com/@yanjun91/Day-7-Hangman-4-Start
 - Challenge 5: https://replit.com/@yanjun91/Day-7-Hangman-5-Start
   - Replit module package: https://github.com/replit/replit-py
+  
 ### What I learnt:
 - Reminded to draw a flowchart before starting to code a complex solution 
 - Code the solution one step at a time instead of doing it all in once and debug later which may caused longer time to fix
@@ -118,10 +124,11 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 - start: https://replit.com/@yanjun91/day-8-start
 - Exercise 1: https://replit.com/@yanjun91/day-8-1-exercise
 - Exercise 2: https://replit.com/@yanjun91/day-8-2-exercise
-- Project part 1: https://replit.com/@yanjun91/caesar-cipher-1-start
-- Project part 2: https://replit.com/@yanjun91/caesar-cipher-2-start
-- Project part 3: https://replit.com/@yanjun91/caesar-cipher-3-start
-- Project part 4: https://replit.com/@yanjun91/caesar-cipher-4-start
+- Cipher Encryption Project part 1: https://replit.com/@yanjun91/caesar-cipher-1-start
+- Cipher Encryption Project part 2: https://replit.com/@yanjun91/caesar-cipher-2-start
+- Cipher Encryption Project part 3: https://replit.com/@yanjun91/caesar-cipher-3-start
+- Cipher Encryption Project part 4: https://replit.com/@yanjun91/caesar-cipher-4-start
+
 ### What I learnt:
 - Definition of parameters and argument
   - parameter is the variable used to accepts value in function (i.e.: `name` in `def greet(name)`)
@@ -132,5 +139,12 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 
 ## Day 9
 ### Replit Links:
+- start: https://replit.com/@yanjun91/day-9-start
+- Exercise 1: https://replit.com/@yanjun91/day-9-1-exercise
+- Exercise 2: https://replit.com/@yanjun91/day-9-2-exercise
+- Blind Auction Project: https://replit.com/@yanjun91/blind-auction-start
 
 ### What I learnt:
+- Dictionary is a list of key-value pairs where the key can be of any primitive type like string or int 
+- Nesting of dictionaries and/or lists within another dictionary/list
+- Using for loop on dictionary yields key instead of its value
