@@ -148,3 +148,29 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 - Dictionary is a list of key-value pairs where the key can be of any primitive type like string or int 
 - Nesting of dictionaries and/or lists within another dictionary/list
 - Using for loop on dictionary yields key instead of its value
+
+## Day 9
+### Replit Links:
+- start: https://replit.com/@yanjun91/day-10-start
+- Exercise 1: https://replit.com/@yanjun91/day-10-1-exercise
+- Calculator project: https://replit.com/@yanjun91/calculator-start
+
+### What I learnt:
+- Can have multiple return statements in a function but only one that is first processed runs
+- Use docstrings to document the function which then will be shown as a description of function when autocomplete
+  - To add docstrings, surround the description using `"""` that is typed directly after definition of function, within the function's code block. 
+  - `"""` can be used as multiline comments as well but not recommended
+- Function can be used as values in dictionary. We can then used it as describe below:
+
+  1. Define a function 
+  > def my_function(x, y):
+  >     return z
+  1. Define dictionary
+  > dict = { 
+  >   "function": my_function 
+  > }
+  1. Use the function in dictionary 
+  > function = dict["function"]
+  > function(x, y)
+
+- Recursion: Calling the a function within the same function
