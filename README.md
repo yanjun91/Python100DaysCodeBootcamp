@@ -163,16 +163,21 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 - Function can be used as values in dictionary. We can then used it as describe below:
 
   1. Define a function 
-  > def my_function(x, y):
-  >     return z
+  ```python
+  def my_function(x, y):<br>
+    return z
+  ```
   1. Define dictionary
-  > dict = { 
-  >   "function": my_function 
-  > }
+  ```python
+  dict = { 
+    "function": my_function 
+  }
+  ```
   1. Use the function in dictionary 
-  > function = dict["function"]
-  > function(x, y)
-
+  ```python
+  function = dict["function"]
+  function(x, y)
+  ```
 - Recursion: Calling the a function within the same function
 
 ## Day 9
