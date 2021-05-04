@@ -174,3 +174,11 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
   > function(x, y)
 
 - Recursion: Calling the a function within the same function
+
+## Day 9
+### Replit Links:
+- My Solution: https://replit.com/@yanjun91/blackjack-start
+- Instructor Solution: https://replit.com/@appbrewery/blackjack-final
+### What I learnt:
+- modularize functions for better code organization and easier to manage
+- work on functionalities one part at a time
