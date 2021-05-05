@@ -149,7 +149,7 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 - Nesting of dictionaries and/or lists within another dictionary/list
 - Using for loop on dictionary yields key instead of its value
 
-## Day 9
+## Day 10
 ### Replit Links:
 - start: https://replit.com/@yanjun91/day-10-start
 - Exercise 1: https://replit.com/@yanjun91/day-10-1-exercise
@@ -180,10 +180,24 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
   ```
 - Recursion: Calling the a function within the same function
 
-## Day 9
+## Day 11
 ### Replit Links:
 - My Solution: https://replit.com/@yanjun91/blackjack-start
 - Instructor Solution: https://replit.com/@appbrewery/blackjack-final
 ### What I learnt:
 - modularize functions for better code organization and easier to manage
 - work on functionalities one part at a time
+
+## Day 12
+### Replit Links:
+- start: https://replit.com/@yanjun91/day-12-start
+- Guess The Number Project: https://replit.com/@yanjun91/guess-the-number-start
+### What I learnt:
+- global vs local scope
+- no block scope
+- ASCII art generator: http://patorjk.com/software/taag/
+
+## Day 13
+### Replit Links:
+
+### What I learnt:
