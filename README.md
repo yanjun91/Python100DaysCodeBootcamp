@@ -184,6 +184,7 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 ### Replit Links:
 - My Solution: https://replit.com/@yanjun91/blackjack-start
 - Instructor Solution: https://replit.com/@appbrewery/blackjack-final
+
 ### What I learnt:
 - modularize functions for better code organization and easier to manage
 - work on functionalities one part at a time
@@ -192,12 +193,23 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 ### Replit Links:
 - start: https://replit.com/@yanjun91/day-12-start
 - Guess The Number Project: https://replit.com/@yanjun91/guess-the-number-start
+
 ### What I learnt:
 - global vs local scope
 - no block scope
 - ASCII art generator: http://patorjk.com/software/taag/
 
 ## Day 13
+### Replit Links:
+- start: https://replit.com/@yanjun91/day-13-start
+- Exercise 1: https://replit.com/@yanjun91/day-13-1-exercise
+- Exercise 2: https://replit.com/@yanjun91/day-13-2-exercise
+- Exercise 3: https://replit.com/@yanjun91/day-13-3-exercise
+
+### What I learnt:
+- Use print or debugger to debug your code
+
+## Day 14
 ### Replit Links:
 
 ### What I learnt:
