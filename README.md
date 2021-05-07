@@ -211,5 +211,12 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 
 ## Day 14
 ### Replit Links:
+- Higher Lower Game Project: https://replit.com/@yanjun91/higher-lower-start-1
+
+### What I learnt:
+- Breaking down large task into smaller chunks and tackle them one by one
+
+## Day 15
+### Replit Links:
 
 ### What I learnt:
