@@ -217,6 +217,8 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 - Breaking down large task into smaller chunks and tackle them one by one
 
 ## Day 15
-### Replit Links:
+### What I learnt:
+- Properly go through requirement before start to code. 
 
+## Day 16
 ### What I learnt:
