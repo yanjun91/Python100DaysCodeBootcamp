@@ -222,3 +222,10 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 
 ## Day 16
 ### What I learnt:
+- Object Oriented Programming = OOP
+- An object has attributes and methods
+- Go to pypi.org to see all available modules
+- Using prettytable module to pretify table
+
+## Day 17
+### What I learnt:
