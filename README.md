@@ -229,3 +229,9 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 
 ## Day 17
 ### What I learnt:
+- Use PascalCase for class name and snake_case for variables
+- constructor name is `def __init__（self):`
+- Try to only accepts input from caller in methods in class instead of doing something like accessing items in list directly
+
+## Day 17
+### What I learnt:
