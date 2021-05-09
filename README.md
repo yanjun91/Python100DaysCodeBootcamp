@@ -233,5 +233,11 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 - constructor name is `def __init__（self):`
 - Try to only accepts input from caller in methods in class instead of doing something like accessing items in list directly
 
-## Day 17
+## Day 18
+### What I learnt:
+- Read documentation to better understand the uses of methods in modules
+- Use alias by adding `as` like so, `import turtle as t`
+- Tuple is fixed(a.k.a. immutable) and cant be changed while list can. Use `list(my_tuple)` to convert tuple to list
+
+## Day 19
 ### What I learnt:
