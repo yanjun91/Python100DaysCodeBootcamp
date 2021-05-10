@@ -241,3 +241,4 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 
 ## Day 19
 ### What I learnt:
+- Creating different instances so that each of them are acting independently
