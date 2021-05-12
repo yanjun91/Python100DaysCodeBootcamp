@@ -242,3 +242,22 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 ## Day 19
 ### What I learnt:
 - Creating different instances so that each of them are acting independently
+
+## Day 20
+### What I learnt:
+- using `screen.tracer(0)` together with `screen.update()` and `time.delay(0.1)` to control the refresh rate of the turtle object
+
+## Day 21
+### What I learnt:
+- Inheritance. Uses code below to inherit Animal class to Fish class, where super refer to the Animal class. We can also override a method from superclass by defining the same method name in subclass.
+  ```python
+  class Fish(Animal):<br>
+    def __init__(self):
+	  super().__init()
+  ```
+- Slicing. We can get a subset from a list/tuples and assign to another list. 
+  - For example, to get `[c, d, e]` from `alphabets = [a, b, c, d, e, f, g]`, we would use `alphabets[2:5]'. 
+  - We can also use `alphabets[2:]` to get `[c, d, e, f, g]`
+  - Using `alphabets[:5]` results in getting `[a, b, c, d, e]`
+  - `alphabets[2:5:2]` will get `[c, e]` while using `alphabets[::2]` would get `[a, c, e, g]`.
+  - Use `alphabets[::-1]` to reverse the list
