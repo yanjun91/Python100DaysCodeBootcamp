@@ -261,3 +261,11 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
   - Using `alphabets[:5]` results in getting `[a, b, c, d, e]`
   - `alphabets[2:5:2]` will get `[c, e]` while using `alphabets[::2]` would get `[a, c, e, g]`.
   - Use `alphabets[::-1]` to reverse the list
+  
+## Day 22
+### What I learnt:
+- Using `onkeypress()` to continuously move the turtle on holding down a key 
+  
+## Day 23
+### What I learnt:
+- Need to think out of the box in creating solutions
