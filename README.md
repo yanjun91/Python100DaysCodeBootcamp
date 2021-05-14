@@ -279,3 +279,8 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 
 ## Day 25
 ### What I learnt:
+- using pandas as a way to go through data structures easily and read/write files
+- can add image to turtle window as background but only accepts gif type image
+
+## Day 26
+### What I learnt:
