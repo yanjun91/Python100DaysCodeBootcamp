@@ -269,3 +269,13 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 ## Day 23
 ### What I learnt:
 - Need to think out of the box in creating solutions
+
+## Day 24
+### What I learnt:
+- read, write, append files
+- absolute file path starts from root that starts with `/`
+- relative file path starts with current folder (working directory) that starts with `./` while using `../` is one step up to parent directory
+- Use forward slash regardless of Mac or Windows
+
+## Day 25
+### What I learnt:
