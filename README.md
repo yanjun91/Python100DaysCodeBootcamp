@@ -164,7 +164,7 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 
   1. Define a function 
   ```python
-  def my_function(x, y):<br>
+  def my_function(x, y):
     return z
   ```
   1. Define dictionary
@@ -251,7 +251,7 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 ### What I learnt:
 - Inheritance. Uses code below to inherit Animal class to Fish class, where super refer to the Animal class. We can also override a method from superclass by defining the same method name in subclass.
   ```python
-  class Fish(Animal):<br>
+  class Fish(Animal):
     def __init__(self):
 	  super().__init()
   ```
@@ -283,4 +283,12 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 - can add image to turtle window as background but only accepts gif type image
 
 ## Day 26
+### What I learnt:
+- List comprehension can be used in the format of `new_list = [new_item for item in list]`
+- Conditional list comprehension can be used in the format of `new_list = [new_item for item in list if test]`
+- Dictionary comprehension can be used in the format of `new_dict = {new_key:new_value for (key,value) in dict.items()}`
+- Conditional dictionary comprehension can be used in the format of `new_dict = {new_key:new_value for (key,value) in dict.items() if test}`
+- loop through data frame using comprehension: `{new_key:new_value for (index, row) in df.iterrows()}`
+
+## Day 27
 ### What I learnt:
