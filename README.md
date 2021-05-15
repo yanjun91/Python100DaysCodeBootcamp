@@ -292,3 +292,41 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 
 ## Day 27
 ### What I learnt:
+- Using tkinter module to build a GUI 
+- we can put default value to parameters of function when defining it which renders them optionals
+  - `def my_function(a=1, b=2, c=3):` then we can call without pass in any arguments 
+- we can add unlimited number of arguments by using `*args` as parameter like below
+  ```python
+  def add(*args):
+    total = 0
+    for n in args:
+        total += n
+    return total
+  ```
+- use `**kwargs` as parameter in a function definition as keyword arguments where arguments are in key-value pair
+  ```python
+  def calculate(n, **kwargs):
+    print(kwargs)
+    n += kwargs["add"]
+    n *= kwargs["multiply"]
+    print(n)
+
+  calculate(2, add=3, multiply=5)
+  ```
+- We can define our own class constructor with `**kw`. 
+  ```python
+  class Car:
+    def __init__(self, **kw):
+        # self.make = kw["make"]
+        # self.model = kw["model"]
+        # Using .get() so that it just return None instead of error if the specific argument not specified when call
+        self.make = kw.get("make")
+        self.model = kw.get("model")
+  
+  my_car = Car(make="Nissan")
+  print(my_car.make)
+  ```
+- the parameter name `args` and `kwargs` in `*args` and `**kwargs` respectively can change to other name. The number of asterisk is the one that determine whether it is a unlimited arguments or keyword argument
+
+## Day 28
+### What I learnt:
