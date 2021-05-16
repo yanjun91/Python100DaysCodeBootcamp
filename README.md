@@ -330,3 +330,14 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 
 ## Day 28
 ### What I learnt:
+- Adding image using canvas
+- using `windows.after(1000, some_function, x)` to call `some_function` function with `x` as argument after 1 second
+- dynamic typing concept in python means we can change the type of a variable when we change it, say, from `int` to `str` and it still work
+  ```python
+  a = 4  # int type
+  a = "Hi"  # str type
+  # a changes from int type to str type
+  ```
+
+## Day 29
+### What I learnt:
