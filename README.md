@@ -341,3 +341,12 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 
 ## Day 29
 ### What I learnt:
+- `Entry.delete(0, END)` will clear the entry of string from index 0 to end of string
+- The code below will yield an input entry of "123yanjun@email.com". The first parameter indicates the index to insert the text. Using `END` will insert to the end of string.
+   ```python
+   email_entry.insert(0, "yanjun@email.com")
+   email_entry.insert(0, "123")
+   ```
+
+## Day 30
+### What I learnt:
