@@ -350,3 +350,22 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 
 ## Day 30
 ### What I learnt:
+- catch exception syntax format:
+```python
+  try:
+    # your own logic that might cause exception
+  except:
+    # execute logic here if there was an exception
+  else:
+    # execute logic here if no exception
+  finally:
+    # no matter what happen, execute logic here
+```
+- we can raise exception by using `raise`. For example: `raise TypeError("This is an error that I made up.")` which includes our own message
+- Json functions
+  - Write: `json.dump()`, it will convert into json format as well
+  - Read: `json.load()`, which will serialized into dict type
+  - Update: `json.update()`
+
+## Day 31
+### What I learnt:
