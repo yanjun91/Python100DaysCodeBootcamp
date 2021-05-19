@@ -369,3 +369,8 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 
 ## Day 31
 ### What I learnt:
+- updating text, image in canvas
+- more understanding on using `window.after()`
+
+## Day 32
+### What I learnt:
