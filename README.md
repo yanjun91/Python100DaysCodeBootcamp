@@ -374,3 +374,6 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 
 ## Day 32
 ### What I learnt:
+- Sending email using Python through SMTP
+- Use `msg="Subject:Hello\n\nThis is the body of my email"` as the `sendmail()` parameter to specify the email subject "Hello" and email body by adding `\n\n`
+- Use [pythonanywhere](https://www.pythonanywhere.com/) to host python code in the cloud
