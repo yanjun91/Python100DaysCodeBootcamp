@@ -391,4 +391,5 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 
 ## Day 34
 ### What I learnt:
-- 
+- We can define data type for the variables/parameter upfront using format `variable: data_type`. For example, `age: int`. In class or function, we just put it in parentheses when defining it
+- We can also define the return type of function using `-> data_type` format. For example, `def check_price(price: int) -> bool:` would return a bool type
