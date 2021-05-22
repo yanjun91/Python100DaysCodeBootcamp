@@ -1,7 +1,7 @@
 import requests
 
 API_ENDPOINT = "https://api.openweathermap.org/data/2.5/onecall"
-API_KEY = "98d20d2f4005334b32aa45860564d8cc"
+API_KEY = "<OPEN_WEATHER_MAP_API_KEY>"
 MY_LAT = 5.329910
 MY_LONG = 100.266040
 
