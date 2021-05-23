@@ -400,3 +400,7 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 
 ## Day 36
 ### What I learnt:
+- Combining all knowledge on calling API and sending SMS to build a small project
+
+## Day 37
+### What I learnt:
