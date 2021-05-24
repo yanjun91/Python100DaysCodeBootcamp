@@ -3,7 +3,7 @@ import datetime as dt
 from datetime import timedelta
 
 USERNAME = "yanjun"
-TOKEN = "a2siunv12yuior4aqeor5ha"
+TOKEN = "<TOKEN>"
 GRAPH_ID = "yjgraph1"
 pixela_endpoint = "https://pixe.la/v1/users"
 
