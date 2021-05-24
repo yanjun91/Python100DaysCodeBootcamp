@@ -404,3 +404,12 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 
 ## Day 37
 ### What I learnt:
+- Request types:
+  - GET: requests.get() => get data from API
+  - POST: requests.post() => give data to API
+  - PUT: requests.put() => update data through API
+  - DELETE: requests.delete() => delete data through API
+- Using [pixela](https://pixe.la/) to track habits through their APIs
+
+## Day 38
+### What I learnt:
