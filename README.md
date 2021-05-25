@@ -413,3 +413,7 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 
 ## Day 38
 ### What I learnt:
+- Combined knowledge learnt in previous lessons.
+
+## Day 39
+### What I learnt:
