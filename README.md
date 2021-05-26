@@ -415,5 +415,7 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 ### What I learnt:
 - Combined knowledge learnt in previous lessons.
 
-## Day 39
+## Day 39 & 40
 ### What I learnt:
+- Go through API documentation for info on how to use the API
+
