@@ -426,3 +426,7 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 
 ## Day 42
 ### What I learnt:
+- Tables, Forms elements
+
+## Day 43
+### What I learnt:
