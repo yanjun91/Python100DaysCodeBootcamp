@@ -427,6 +427,37 @@ Repo for storing codes for "100 Days of Code - The Complete Python Pro Bootcamp 
 ## Day 42
 ### What I learnt:
 - Tables, Forms elements
+- Can host a website free in github
+  1. Create a repository
+  2. Upload html files
+  3. Go to Settings > Github Pages section
+  4. At Source, choose master branch from the dropdown and click Save.
+  5. It may take some time to publish the website. The link to the website will be shown at the Github Pages section.
 
 ## Day 43
 ### What I learnt:
+- Using inline, internal and external CSS to style HTML pages.
+- Different way to style elements in HTML pages by using tags/class/id selectors.
+
+## Day 44
+### What I learnt:
+- Box model of div tag
+- display block elements takes up the whole width of the page regardless of content, but height still determine by content. However, we can change the width of them using CSS.
+  - Common block elements: `<p>`, `<h1>...<h6>`, `<div>`, `<ol>`, `<ul>`, `<li>` and `<form>`
+- display inline elements does not take up whole width of page but just the size that it needs only.
+  - Common inline elements: `<span>`, `<img>` and `<a>`
+- inline-block is hybrid of both block and inline. We can change it's width and can put inline with several elements.
+- static position is the original position that those elements would be without any css.
+- relative position is the position moved from the original static position(aka relative to the original static position). We would generally use relative position with some positioning css property. The element with relative position will not affect other element so it might overlap other element if we move it.
+- Example below shows the img element move 30px to the right from it's original static position:
+```css
+img {
+	position: relative;
+	left: 30px;
+}
+```
+- abosulte position will move its position relative to its parent element. This will affect flow of other elements.
+- fixed position will stick to a position relative to its parents even when we scroll the page.
+- text-align used in a parent element will center everything for its child elements. Use `margin: 0 auto` to center if block display element has some width.
+- 100% or 1em font-size is equivalent to 16px. Recommend to use 1**r**em so that in case parent element as font size set to 2em or more then it wont stack.
+- Extra challenge can be done at https://www.frontendmentor.io/
