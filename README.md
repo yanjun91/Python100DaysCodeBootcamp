@@ -460,4 +460,13 @@ img {
 - fixed position will stick to a position relative to its parents even when we scroll the page.
 - text-align used in a parent element will center everything for its child elements. Use `margin: 0 auto` to center if block display element has some width.
 - 100% or 1em font-size is equivalent to 16px. Recommend to use 1**r**em so that in case parent element as font size set to 2em or more then it wont stack.
+- Google font css link import: https://fonts.google.com/
+- Free flaticons: https://www.flaticon.com/
+- Color palettes: https://colorhunt.co/
+- CSS Button creator: https://cssbuttoncreator.com/
 - Extra challenge can be done at https://www.frontendmentor.io/
+
+## Day 45
+### What I learnt:
+- Using BeautifulSoup module to scrap website
+- Reads the robots.txt of the website(if available) to check which pages are allow/disallow to scrap and how long is the delay we should crawl. We can access the file by adding "/robots.txt" after the website root domain.
