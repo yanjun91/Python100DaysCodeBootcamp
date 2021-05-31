@@ -470,3 +470,10 @@ img {
 ### What I learnt:
 - Using BeautifulSoup module to scrap website
 - Reads the robots.txt of the website(if available) to check which pages are allow/disallow to scrap and how long is the delay we should crawl. We can access the file by adding "/robots.txt" after the website root domain.
+
+## Day 46
+### What I learnt:
+- Scrap Billboard top 100 tracks and create a Spotify playlist from it.
+
+## Day 47
+### What I learnt:
