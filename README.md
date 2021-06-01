@@ -477,3 +477,7 @@ img {
 
 ## Day 47
 ### What I learnt:
+- Scrap Amazon website to track price fluctuation and email when current price is below target price.
+
+## Day 48
+### What I learnt:
