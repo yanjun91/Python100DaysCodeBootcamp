@@ -481,3 +481,13 @@ img {
 
 ## Day 48
 ### What I learnt:
+- Using Selenium to automate website testing
+- Using Selenium to get certain elements content by id, class, name, css selector(eg: anchor tag within div), etc
+- Can use get element by name to fill in forms
+- If all else method to get an element wont work, then can use xpath
+- We can combine each item from 2 lists into a dict within a list using list comprehension
+  - `list = [{"key1": value1, "key2": value2} for value1 in list1 for value2 in list2]`
+
+  
+## Day 49
+### What I learnt:
