@@ -494,3 +494,7 @@ img {
 
 ## Day 50
 ### What I learnt:
+- Built a Tinder auto swipe bot
+
+## Day 51
+### What I learnt:
