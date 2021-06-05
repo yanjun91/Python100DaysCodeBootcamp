@@ -487,7 +487,10 @@ img {
 - If all else method to get an element wont work, then can use xpath
 - We can combine each item from 2 lists into a dict within a list using list comprehension
   - `list = [{"key1": value1, "key2": value2} for value1 in list1 for value2 in list2]`
-
   
 ## Day 49
+### What I learnt:
+- Save jobs from Linkedin search result automatically using Selenium
+
+## Day 50
 ### What I learnt:
