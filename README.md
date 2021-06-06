@@ -498,3 +498,7 @@ img {
 
 ## Day 51
 ### What I learnt:
+- Built a bot to automatically test Internet speed and tweet when speed not as promised
+
+## Day 52
+### What I learnt:
