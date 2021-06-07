@@ -502,3 +502,11 @@ img {
 
 ## Day 52
 ### What I learnt:
+- Built a bot to automatically follow followers from an Instagram page.
+
+## Day 53
+### What I learnt:
+- Built rental web scraping automation using BeautifulSoup to scrap data and Selenium to enter data to Google Form
+
+## Day 54
+### What I learnt:
