@@ -510,3 +510,12 @@ img {
 
 ## Day 54
 ### What I learnt:
+- Flask and Django is framework for Python on the web backend to process business logic
+- Basic unix commands
+  - Use `rm -rf <FolderName>`: -rf means recursively forcibly. All files and directory inside that folder will be removed.
+- `__name__` will have the current class/function/method/descriptor/generator name
+  - If we run that specific Python file, then the `__name__` will be `__main__`
+-@app.route('/') is a decorator function. Whatever function definition under it will be triggered with additional functionalities defined in app.route. 
+
+## Day 55
+### What I learnt:
