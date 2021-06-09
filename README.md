@@ -519,3 +519,5 @@ img {
 
 ## Day 55
 ### What I learnt:
+- Run in debug mode by adding `debug=True` in `app.run()` like so, `app.run(debug=True)`
+- We can specify the path variable to certain data types like int. If that particular variable is of a different type, say string, then it will render as 404 not found.
