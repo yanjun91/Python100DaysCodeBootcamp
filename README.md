@@ -521,3 +521,12 @@ img {
 ### What I learnt:
 - Run in debug mode by adding `debug=True` in `app.run()` like so, `app.run(debug=True)`
 - We can specify the path variable to certain data types like int. If that particular variable is of a different type, say string, then it will render as 404 not found.
+
+## Day 56
+### What I learnt:
+- html files goes into templates folder
+- static files goes into static folder 
+- can execute a Javascript code in developer tools' console to make the webpage editable on the page itself. Use `document.body.contentEditable=true`
+
+## Day 57
+### What I learnt:
