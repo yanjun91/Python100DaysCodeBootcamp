@@ -530,3 +530,12 @@ img {
 
 ## Day 57
 ### What I learnt:
+- Use Jinja to template webpage content dynamically
+- Use `{{ <Python Code> }}` in html file to render python codes
+- pass in dynamic content using **kwargs in `render_template()` as parameter. `render_template("index.html", key=value)`
+- use {% %} for multiline python code in html file and add {% endfor %} or {% endif %} depending on the code.
+- use `{{ url_for('<function_name>') }}` in html file inside href to navigate to the page
+  - we can even add parameters to the `use_for()` method to pass in the params for the URL. For example, if we are to add num as part of the url as params then use this: `{{ url_for('<function_name>', num = 3) }}`
+  
+## Day 58
+### What I learnt:
