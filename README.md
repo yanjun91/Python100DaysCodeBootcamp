@@ -539,3 +539,4 @@ img {
   
 ## Day 58
 ### What I learnt:
+- Using Bootstrap to style web page.
