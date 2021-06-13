@@ -540,3 +540,10 @@ img {
 ## Day 58
 ### What I learnt:
 - Using Bootstrap to style web page.
+- z-index only takes effect when we use position property
+- Hierarchy of applying css styles from most important to least important: inline css > internal css > id > class > elements
+- try not to use id unless necessary even if the element only appear once. Use id on sections only.
+- bad practice to use inline css style
+
+## Day 59
+### What I learnt:
