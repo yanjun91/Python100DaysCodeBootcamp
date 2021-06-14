@@ -547,3 +547,7 @@ img {
 
 ## Day 59
 ### What I learnt:
+- Enhanced day 55 blogpost website with bootstrap
+
+## Day 60
+### What I learnt:
