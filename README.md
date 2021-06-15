@@ -551,3 +551,8 @@ img {
 
 ## Day 60
 ### What I learnt:
+- Add POST request functionality to blog's contact me page
+- use `request` module from Flask to receive POST/GET request from a form submission
+
+## Day 61
+### What I learnt:
