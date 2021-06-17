@@ -556,3 +556,11 @@ img {
 
 ## Day 61
 ### What I learnt:
+- Use WTForms and Flask-Bootstrap to build page with form with lesser code
+
+## Day 62
+### What I learnt:
+- Use WTForms and Flask-Bootstrap work on more exercise to add form submission to save data to csv
+
+## Day 63
+### What I learnt:
