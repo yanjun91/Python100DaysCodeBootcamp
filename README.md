@@ -564,3 +564,11 @@ img {
 
 ## Day 63
 ### What I learnt:
+- Build a website with sqlite as database and using SQLAlchemy to access the database.
+
+## Day 64
+### What I learnt:
+- Create top 10 movies with Flask/SQLAlchemy/WTForms
+
+## Day 65
+### What I learnt:
