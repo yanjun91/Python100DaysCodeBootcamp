@@ -572,3 +572,32 @@ img {
 
 ## Day 65
 ### What I learnt:
+- Web Design is important to deliver the mood and message as intended.
+  - Red: Love, Energy, Intensity
+  - Yellow: Joy, Intellect, Attention
+  - Green: Freshness, Safety, Growth
+  - Blue: Stability, Trust, Serenity
+  - Purple: Royalty, Wealth, Feminity
+- Use analogous color (colors besides each other in color palette wheel) works well together. Good for navigation bar and body of website, logo and its background. Not good for standing out.
+- Use complementary color (colors opposite each other in color palette wheel) to makes something pop but do not use them as your font color and background color.
+- Use sans-serif and serif in title and body in turn. Use Humanist typeface for easier reading.
+- Emotion behind fonts
+  - Serif gives traditional, stable and respectable feels. Use in a more professional settings like letter.
+  - Sans-serif gives sensible, simple and straightforward mood. Many startup likes to use this in their website.
+  - Script gives personal, creative and elegant feels.
+  - Display gives friendly, loud and amusing mood.
+  - Modern gives stylish, chic and smart feels. Used in style magazines.
+- Big item often draws attention. Use it for things that you want to attract attention like Checkout button.
+- Layout of website is important. Don't use all words only, add some pictures/different colors and font size. Use 40-60 characters per line for easier eye tracking to read
+- Align text properly. Reduce number of alignment points.
+- Spacing is important. Luxury store often spaces out their items. If items are cluttered together, it will look like discount store.
+- Think about audience and consider design based on them. Children audience will like more colorful design.
+- UX:
+  - Simple
+  - Consistency
+  - Reading patterns start left to right but the length to look through from left to right is shorten as user goes down the webpage. Or use Z pattern. 
+  - Design challenges: https://www.dailyui.co/
+  - Website to create design for free: https://www.canva.com/
+  
+## Day 66
+### What I learnt:
