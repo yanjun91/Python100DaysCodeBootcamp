@@ -601,3 +601,7 @@ img {
   
 ## Day 66
 ### What I learnt:
+- Building REST API using Python with Flask
+
+## Day 67
+### What I learnt:
