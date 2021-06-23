@@ -605,3 +605,7 @@ img {
 
 ## Day 67
 ### What I learnt:
+- Update blog webpage to use sqlite 
+
+## Day 68
+### What I learnt:
