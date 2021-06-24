@@ -609,3 +609,7 @@ img {
 
 ## Day 68
 ### What I learnt:
+- Add authentication to a page and encrypt password before store in database.
+
+## Day 69
+### What I learnt:
