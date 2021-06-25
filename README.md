@@ -613,3 +613,9 @@ img {
 
 ## Day 69
 ### What I learnt:
+- Add authentication + password encryption to previous blog post website project. 
+- Add blog post admin feature
+- Add comment feature
+
+## Day 70
+### What I learnt:
