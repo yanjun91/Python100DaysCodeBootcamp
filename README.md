@@ -619,3 +619,8 @@ img {
 
 ## Day 70
 ### What I learnt:
+- GitHub lessons
+- Deploy previous blog website project to Heroku
+
+## Day 71
+### What I learnt:
