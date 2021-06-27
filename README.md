@@ -624,3 +624,16 @@ img {
 
 ## Day 71
 ### What I learnt:
+- Using Pandas DataFrame to do data exploration
+- `.head()` and `.tail()` to view the top 5 and bottom 5 rows respectively
+- Can use `.findna()` to find NaN data and use `.dropna()` to drop rows with NaN data
+- Use `df['column name'][index]` or `df['column name'].loc(index)` to access the column data for that particular index
+- Use `.max()` and `.min()` to get the max or min value for that column(e.g.: `df['Salary'].max()`)
+- Use `.idxmax()` and `.idxmin()` to get the max and min index respectively
+- Use `.sort_values()` to sort the dataframe. Use parameter ascending=False to sort it by descending order
+- Use `.insert()` to insert column into dataframe. Need to specify the index to insert and the data in array with the same order
+- Use `.groupby()` to group the rows by columns specified 
+- Google Colaboratory Notebook link: https://colab.research.google.com/drive/1_oNsxiRzdc1tqIrFiiMfSjt_ldB4w6Qt?usp=sharing
+
+## Day 72
+### What I learnt:
