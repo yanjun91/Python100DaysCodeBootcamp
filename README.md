@@ -637,3 +637,14 @@ img {
 
 ## Day 72
 ### What I learnt:
+- Plotting chart with matplotlib
+- can convert string to datetime using `pandas.to_datetime()` for easier plotting
+- reshaped DataFrame using `.pivot()`
+- fill in NaN values with 0 in all columns using `.fillna(0, inplace=True)`
+- using `plot()` with loop to plot multiple lines in chart using "label" parameter in `plot()` method
+- add legend after adding label
+- smooth out the line using `.rolling()` and `.mean()`
+- Google Colaboratory Notebook link: https://colab.research.google.com/drive/1B6sxOG4ufmNa-AotFc5PCmvFdUlZl0CI
+
+## Day 73
+### What I learnt:
