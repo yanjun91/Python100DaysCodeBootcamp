@@ -648,3 +648,16 @@ img {
 
 ## Day 73
 ### What I learnt:
+- Using `df.agg()` to aggregate data 
+- Use `df[:-2]` to slice out the last 2 data in data frame
+- Use `df.rename()` to rename columns in DataFrame
+- To create two-axes chart, need to create the axes first then use `.plot()`
+```python
+ax1 = plt.gca() # get current axes
+ax2 = ax1.twinx() 
+```
+- Use `pd.merge()` to merge 2 DataFrame with common key(primary-foreign key): `pd.merge(set_theme_count, themes, on='id')`
+- Google Colaboratory Notebook link: https://colab.research.google.com/drive/1W3UKi7VMVtwbBtpSKy6K0JtyCCySBlsV#scrollTo=cYId5JdnoVyL
+
+## Day 74
+### What I learnt:
