@@ -661,3 +661,11 @@ ax2 = ax1.twinx()
 
 ## Day 74
 ### What I learnt:
+- use `.describe()` to quickly see some descriptive statistics at a glance
+- use `.resample()` to change the period of a time-series chart. The column with date/time need to be first converted to datetime using `pd.to_datetime()`
+- use linestyles parameter in `.plot()` to change the line styles to something like dashed line or dotted lines
+- use `.grid()` to draw grids to chart
+- Google Colaboratory Notebook link: https://colab.research.google.com/drive/1VrYYysKKSY_xitnLI8xr_20tYuWLE2Bj
+
+## Day 75
+### What I learnt:
