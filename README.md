@@ -669,3 +669,11 @@ ax2 = ax1.twinx()
 
 ## Day 75
 ### What I learnt:
+- Using `.sample(n)` to sample a few random data with n rows
+- Find duplicated entries using `.duplicated()` and use `.drop_duplicates()` to remove duplicated rows. Additional parameters can be entered for more precise removal of duplicates based on columns.
+- Use `.to_numeric()` to convert to numeric values
+- Use plotly to ploy pie, donut, bar chart, box plots and scatter plots
+- Google Colaboratory Notebook link: https://colab.research.google.com/drive/12FYqAekf0NZu5R2cj9b9egEM938d6rKc
+
+## Day 76
+### What I learnt:
