@@ -677,3 +677,13 @@ ax2 = ax1.twinx()
 
 ## Day 76
 ### What I learnt:
+- Create arrays manually using `np.array([1,2,3,4,5])` from NumPy module
+- Generate array using `.arange()` with specified range and `.linspace()` with specified range plus the size of array that has the numbers difference equally spread apart.
+- analyse multi-dimensional/n-dimensional array(ndarray)
+- slice and get subset of ndarray
+- scalar and matrix multiplication operation with ndarray
+- manipulate color of image that is composed from ndarray 
+- Google Colaboratory Notebook link: https://colab.research.google.com/drive/1JhImou6hK_hopEyj0qH5ioBIPzMfBDFB
+
+## Day 77
+### What I learnt:
