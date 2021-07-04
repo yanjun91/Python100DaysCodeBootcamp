@@ -687,3 +687,13 @@ ax2 = ax1.twinx()
 
 ## Day 77
 ### What I learnt:
+- Filter Pandas DataFrames based on multiple conditions using both .loc[] and .query()
+- Create bubble chart using Seaborn module
+- Seaborn created bubble chart can be styled using Matplotlib as it Seaborn built upon Matplotlib
+- Use floor division to convert years to decades `decades = years//10*10`
+- Use Seaborn to superimpose a linear regressions over our data
+- Run regressions with scikit-learn and calculate the coefficients.
+- Google Colaboratory Notebook link: https://colab.research.google.com/drive/1wTVYymYQHe2J1YKu67pnsoNy_wuta4gE
+
+## Day 78
+### What I learnt:
