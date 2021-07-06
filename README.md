@@ -697,3 +697,10 @@ ax2 = ax1.twinx()
 
 ## Day 78
 ### What I learnt:
+- Create a Choropleth to display data on a map
+- Create bar charts showing different segments of the data with plotly
+- Create Sunburst charts with plotly
+- Google Colaboratory Notebook link: https://colab.research.google.com/drive/1kbTkDNw056iSAIBd4Fgi27QLALu0NiV1#scrollTo=Ml9w1jFjGUTi
+
+## Day 79
+### What I learnt:
