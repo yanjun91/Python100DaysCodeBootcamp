@@ -704,3 +704,15 @@ ax2 = ax1.twinx()
 
 ## Day 79
 ### What I learnt:
+- use histograms to visualise distributions
+- superimpose histograms on top of each other even when the data series have different lengths
+- use a to smooth out kinks in a histogram and visualise a distribution with a Kernel Density Estimate (KDE)
+- improve a KDE by specifying boundaries on the estimates
+- use scipy and test for statistical significance by looking at p-values
+- highlight different parts of a time series chart in Matplotib
+- add and configure a Legend in Matplotlib
+- Use NumPy's `.where()` function to process elements depending on a condition.
+- Google Colaboratory Notebook link: https://colab.research.google.com/drive/1qLmI7qJLBZbx2v-PfXvZZpAxLMKNATYf
+
+## Day 80
+### What I learnt:
