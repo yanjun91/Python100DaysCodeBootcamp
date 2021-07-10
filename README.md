@@ -716,3 +716,8 @@ ax2 = ax1.twinx()
 
 ## Day 80
 ### What I learnt:
+- A capstone project of data analysis module on Python
+- Google Colaboratory Notebook link: https://colab.research.google.com/drive/1u8mFyFxoCbtnnGbgRtrvWBCoTJug8x0z
+
+## Day 81 - 100
+- Assignments
