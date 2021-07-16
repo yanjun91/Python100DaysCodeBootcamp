@@ -1,0 +1,138 @@
+html, body {
+  height: 100%;
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: #E3F6F5;
+  text-align: center;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 100px;
+    font-weight: 700;
+}
+
+h2 {
+    color: #000;
+    font-weight: 400;
+    font-size: 50px;
+}
+
+/* Navbar Section */
+.navbar {
+    background-color: transparent;
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 998;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+.navbar-brand {
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.nav-item {
+    margin-left: 2rem;
+}
+
+.nav-link {
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+}
+
+.navbar-toggler {
+    background-color: #f8f9fa;
+}
+
+/* Header Section */
+.header{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+.background-img{
+    height: inherit;
+    position: absolute;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    background-image: url("../images/laptop-screen.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    margin: -10px;
+}
+
+.title {
+    position: absolute;
+    display: block;
+    width: 100%;
+    text-align: center;
+    top: 50%;
+    z-index: 997;
+}
+
+.title h1, .title h2{
+    color: #fff;
+}
+
+/* Profile Picture Section */
+.profile-picture {
+    position: relative;
+    margin: auto;
+    width: 30%;
+    z-index: 999;
+}
+
+.profile-picture img {
+    border-radius: 50%;
+    box-shadow: 4px 4px 10px 0px #b3b3b3;
+    -webkit-box-shadow: 4px 4px 10px 0px #b3b3b3;
+    -moz-box-shadow: 4px 4px 10px 0px #b3b3b3;
+}
+
+/* Body Section */
+.body p {
+    margin: 3rem;
+    font-size: 20px;
+    text-align: center;
+}
+
+.interests {
+    margin: 5rem;
+}
+
+.interests-section {
+    text-align: center;
+}
+
+.interests-section .col {
+    margin: 1rem;
+}
+
+.interests-section p {
+    margin: 2rem;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+label {
+    font-weight: 700;
+}
+
+.mb-3 {
+    text-align: left;
+}
+
+button {
+    text-align: right;
+}
